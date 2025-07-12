@@ -301,7 +301,7 @@ public class LimeLight extends OpMode {
         telemetry.addData("AcutalX", actualX);
         telemetry.addData("AcutalY", actualY);
         telemetry.addData("ActualZ", actualZ);
-        telemetry.addData("Auto", auto);
+
 
 
 
