@@ -23,7 +23,7 @@ import org.openftc.easyopencv.OpenCvCamera;
 import org.openftc.easyopencv.OpenCvCameraFactory;
 import org.openftc.easyopencv.OpenCvCameraRotation;
 
-
+/*
 @com.qualcomm.robotcore.eventloop.opmode.TeleOp(name = "RED")
 @Config
 
@@ -205,7 +205,7 @@ public class TeleOpRed extends OpMode {
         }
 
         if (gamepad2.right_stick_button) {
-            arm.pickUpSpecimen();
+            //arm.pickUpSpecimen();
             wrist.PickUpSpecimen();
         }
 
@@ -318,3 +318,5 @@ public class TeleOpRed extends OpMode {
 
 
 }
+
+ */
